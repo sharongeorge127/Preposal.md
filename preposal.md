@@ -6,7 +6,7 @@ I want to create my own game on python. I was thinking how going with a classic 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-I plan on owrking by myself for this project as I usually tend to do better on my own rather than a group because from past experiences I would worry about my other team memebers reaching deadlines on time when I would complete my side of the work on time. Also with how this sem is running, I find it best just to work on this myself because my schedule might not align with my other team mates if I were to work in a group.
+I plan on working by myself for this project as I usually tend to do better on my own rather than a group because from past experiences I would worry about my other team memebers reaching deadlines on time when I would complete my side of the work on time. Also with how this sem is running, I find it best just to work on this myself because my schedule might not align with my other team mates if I were to work in a group.
 
 ## Do you have any questions of your own?
 
